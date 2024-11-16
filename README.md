@@ -1,4 +1,4 @@
-# CSC Department Information
+# Bragg.cs.miami.edu
 
 Logging into bragg requires either
 - password and a google authenticator 2FA
