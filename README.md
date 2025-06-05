@@ -15,5 +15,9 @@ and these are the defaults for Google Authenticator (and most other devices).
 
 To create or renew your google authenticator, run `google-authenticator`.
 
-Lab machines are listed in [Bromelia-names](https://github.com/csc-department/info/blob/main/csc-colors-names-map.pdf) PDF. These will only require a password or a public-private key pair.
+Please note: the lab machines were updated and are still being installed. I suggest you use the ones with names beginning in `blue-`.
+Note that they are Linux Mint. 
+
+Lab machines are listed in [Bromelia-names](https://github.com/csc-department/info/blob/main/csc-colors-names-map.pdf) PDF. 
+These will only require a password or a public-private key pair.
 
